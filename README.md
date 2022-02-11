@@ -23,10 +23,10 @@ Coming soon.
 - 🏔 **Scalable**
   - Parallel chains to meet any requirements
 - 💬 **Language Agnostic**
-  - yeee
+  - All languages are welcome
 - 🗃 **Open Source**
-  - All langauges are welcome
+  - Transparent auditable code
 - 🕖 **Fast Finality**
-  - Transactions are immediately finalized once its included in a block. No need to wait for confirmations.
+  - Transactions are immediately finalized once it's included in a block. No need to wait for confirmations.
 
 ## Details
